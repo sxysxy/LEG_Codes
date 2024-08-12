@@ -6,6 +6,8 @@ LEG is an 8-bit ISA. You can directly play it in Steam game 'Turing Complete'. F
 
 See exported verilog codes in folder 'verilog'
 
+Hfcloud-LEG by HfCloud(or sxysxy) is marked with CC0 1.0 
+
 ## Basic Configurations
 
 A 256-byte program memory.
